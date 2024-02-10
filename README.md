@@ -1,0 +1,4 @@
+# simple-arduino-cell-phone
+A simple Arduino cell phone made with Sim800L GSM module. Uploaded for archiving reasons. Schematics are not available, I lost it. Code and comments in the code are in Turkish, someone with a sufficient knowledge of electronics and Turkish can probably reverse engineer the full design with the help of online guides without much trouble, if they want to do so.
+
+Sim800L GSM modülüyle yapılmış basit bir Arduino telefon. Uzun süre önce yapmıştım. Devre şeması maalesef yok, kaybettim. Yeterince elektronik bilgisi olan birinin internetin de yardımıyla çok zorlanmadan devre şemasını oluşturabileceğini düşünüyorum. Son çalışan halinde yanlış hatırlamıyorsam hoparlör, mikrofon, 4x3 sayısal tuş takımı, Nokia 5110 ekran ve 18650 bataryası vardı ve arama yapıp alabiliyordu.
